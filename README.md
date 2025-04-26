@@ -12,7 +12,7 @@
 
 <!-- ✨ Profile Album Card -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/9d7e4e84-0d0f-4b42-b446-dd251c66b896.png?raw=true" width="300px" alt="Profile Album Card" />
+  <img src="https://github.com/AkarshGupta4/AkarshGupta/blob/main/assets/9d7e4e84-0d0f-4b42-b446-dd251c66b896.png?raw=true" width="300px" alt="Profile Album Card" />
 </p>
 
 ---
