@@ -1,40 +1,49 @@
-<!-- Banner / Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akarsh+Gupta;Android+Dev+%7C+Web+Dev+%7C+UI%2FUX+Learner;Always+building+something+awesome!" alt="Typing SVG" />
+<!-- Top Header Banner (Custom GIF Background) -->
+<img src="https://i.pinimg.com/originals/99/63/64/996364ce3b62c8a47b2377023b731e2d.gif" width="100%" height="250px" style="object-fit:cover;" />
+
+<h1 align="center">Hey 👋, I'm <span style="color:#00CED1;">Akarsh Gupta</span></h1>
+<h3 align="center">🚀 Android Developer | 🌍 Web Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on **Android and Web App Projects** <br>  
-🌱 I’m learning **Jetpack Compose**, **React.js**, and **UI/UX principles** <br>  
-👯 I’m open to collaborate on **real-world Android or Web development ideas** <br>  
-💬 Ask me about **Java, Android Studio, Firebase, Web Dev Basics** <br>  
-⚡ Fun fact: *I turned an idea into a full-fledged certification platform during Smart India Hackathon!*  
-
----
-
-## 🌐 Socials:
 <p align="center">
-<a href="https://instagram.com/akarshgupta.004"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a> 
-<a href="https://linkedin.com/in/Akarsh Gupta"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a> 
-<a href="https://pinterest.com/akarshgupta077"><img src="https://skillicons.dev/icons?i=pinterest" height="40" alt="Pinterest"/></a> 
-<a href="mailto:akarshgupata077@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%9A%80;Passionate+about+Android+%26+Web+Dev;Always+learning+new+things+%F0%9F%93%9A;Turning+ideas+into+reality+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Languages & Tools:
+## ✨ About Me:
+- 🔥 Final-year Computer Science student passionate about crafting digital experiences
+- 👨‍💻 I love building **Android Apps**, **Responsive Websites**, and exploring **UI/UX magic**
+- 🌱 Currently diving into **Jetpack Compose**, **Next.js**, **Tailwind CSS**, and **Microservices**
+- 🏆 Smart India Hackathon Finalist (Built a full Certification System!)
+- 🎯 Always open to exciting collaborations!
+
+---
+
+## 🌐 Connect With Me:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,python,c,cpp,react,nodejs,figma,ps,canva,mysql,mongodb,sqlite,aws,gcp,azure" />
+<a href="https://instagram.com/akarshgupta.004" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/Akarsh Gupta" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+<a href="https://pinterest.com/akarshgupta077" target="_blank"><img src="https://skillicons.dev/icons?i=pinterest" height="40" alt="Pinterest" /></a>
+<a href="mailto:akarshgupata077@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats:
+## 🛠️ My Tech Stack:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,js,react,python,c,cpp,nodejs,mysql,mongodb,sqlite,aws,gcp,azure,figma,photoshop,canva" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity:
 <div align="center">
 
-|  Stats  |  Streak  |  Top Languages  |
+| 🔥 Stats | 🚀 Streak | 📊 Top Languages |
 | :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=AkarshGupta4&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="200" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGupta4&theme=tokyonight&hide_border=false" height="200" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGupta4&theme=tokyonight&hide_border=false&layout=compact" height="200" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=AkarshGupta4&theme=merko&show_icons=true&hide_border=false&count_private=true" height="200px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGupta4&theme=merko&hide_border=false" height="200px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGupta4&theme=merko&layout=compact&hide_border=false" height="200px"/> |
 
 </div>
 
@@ -42,36 +51,32 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkarshGupta4&theme=dracula&margin-w=10&no-bg=true&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=AkarshGupta4&theme=discord&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph:
+## 🐍 Dynamic Contribution Graph:
 <p align="center">
   <img src="https://raw.githubusercontent.com/AkarshGupta4/AkarshGupta4/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## ✨ Recent Activity:
-<!--START_SECTION:activity-->
-1. 📱 Working on a brand new Android App
-2. 🎨 Learning advanced UI/UX prototyping
-3. 🛠️ Building projects with React.js
-4. 📖 Reading "Clean Code" by Robert C. Martin
-<!--END_SECTION:activity-->
+## 🚀 Skills Progress Animation:
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AkarshGupta4&theme=react-dark&hide_border=false&area=true" />
+</p>
 
 ---
 
-## 📣 Let's Collaborate!
-> Open to exciting Android / Web App projects, UI/UX experiments, and tech talks! 🤝 <br>  
-> *"Code is like humor. When you have to explain it, it’s bad."* — Let’s keep it simple and cool.
+## 💬 Quote of the Day:
+<p align="center"><i>"Consistency beats talent when talent doesn’t work hard."</i> 💥</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AkarshGupta4&label=Profile%20Views&color=6&icon=2" />
+  <img src="https://visitcount.itsvg.in/api?id=AkarshGupta4&label=Profile%20Views&color=12&icon=2" />
 </p>
 
 <!-- Made with ❤️ by Akarsh Gupta -->
