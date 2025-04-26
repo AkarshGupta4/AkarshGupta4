@@ -1,6 +1,6 @@
 ## Hii , i am Akarsh👋
 
-# 💫 About Me:
+# 💻  Tech stack:
 👯 I’m looking to collaborate on real-world Android or web app ideas<br>🤝 I’m looking for help with mastering front-end frameworks like React<br>🌱 I’m currently learning Android Development and exploring UI/UX design basics<br>⚡ Fun fact: I once turned a simple idea into a full certification platform for the Smart India Hackathon!
 
 
