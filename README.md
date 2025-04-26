@@ -13,9 +13,9 @@
 ---
 
 ## ✨ About Me:
-- 🔥 Android & Web App Developer
-- 🎯 Hackathon Winner (Smart India Hackathon 🚀)
-- 📚 UI/UX enthusiast | Learning new frameworks everyday
+- 🔥 **Android & Web App Developer**
+- 🎯 **Hackathon Winner** (Smart India Hackathon 🚀)
+- 📚 **UI/UX enthusiast** | Learning new frameworks every day
 - 🌱 Current focus: **Jetpack Compose**, **Next.js**, **Cloud Architecture**
 
 ---
