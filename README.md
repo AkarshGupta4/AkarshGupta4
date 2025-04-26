@@ -5,8 +5,7 @@
 <!-- About Me Section -->
 ## About Me 🚀
 - 🔥 Android & Web Developer passionate about crafting delightful user experiences.
-- 🏆 Winner at **Smart India Hackathon** 🚀
-- 🌱 Currently exploring **Jetpack Compose**, **Next.js**, **Cloud Architecture**, and **AI/ML**.
+- 🏆 prequalifiers **Smart India Hackathon 2024** 🚀
 - 🎨 UI/UX Enthusiast where creativity meets functionality.
 - 💻 Always dreaming in code!
 
