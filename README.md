@@ -19,10 +19,26 @@
 ---
 
 # 📚 Tech Stack
-<!-- Folded paper card style with round animated icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,js,react,nextjs,nodejs,python,mysql,mongodb,aws,gcp,figma,photoshop&perline=8" width="90%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-</p>
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" alt="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50" alt="Photoshop"/>
+  
+</div>
 
 ---
 
@@ -68,4 +84,5 @@
 </p>
 
 ---
+
 <!-- Made with 💖 by Akarsh Gupta -->
