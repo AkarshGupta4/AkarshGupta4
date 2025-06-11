@@ -10,7 +10,7 @@
 - 💻 Always dreaming in code!
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR-GITHUB-ID" width="200px" style="border-radius:50%;" alt="Akarsh's GitHub Profile Picture" />
+  <img src="https://avatars.githubusercontent.com/u/AkarshGupta4" width="200px" style="border-radius:50%;" alt="Akarsh's GitHub Profile Picture" />
 </p>
 
 ---
