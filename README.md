@@ -2,16 +2,23 @@
 
 <h1 align="center">Hi, I'm Akarsh Gupta 👋</h1>
 
-<!-- About Me Section -->
-## About Me 🚀
-- 🔥 Android & Web Developer passionate about crafting delightful user experiences.
-- 🏆 Pre-qualified in **Smart India Hackathon 2024** 🚀
-- 🎨 UI/UX Enthusiast where creativity meets functionality.
-- 💻 Always dreaming in code!
-
-<p align="center">
-  <img src="https://github.com/AkarshGupta4.png" width="200px" style="border-radius:50%;" alt="Akarsh's GitHub Profile Picture" />
-</p>
+<!-- About Me Section with Right-Aligned Circular Image -->
+<table>
+  <tr>
+    <td>
+      <h3>About Me 🚀</h3>
+      <ul>
+        <li>🔥 Android & Web Developer passionate about crafting delightful user experiences.</li>
+        <li>🏆 Pre-qualified in <strong>Smart India Hackathon 2024</strong> 🚀</li>
+        <li>🎨 UI/UX Enthusiast where creativity meets functionality.</li>
+        <li>💻 Always dreaming in code!</li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://github.com/AkarshGupta4.png" width="160" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="Akarsh's GitHub Profile Picture">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -107,4 +114,4 @@
 
 ---
 
-
+<!-- Made with 💖 by Akarsh Gupta -->
