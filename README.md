@@ -49,7 +49,7 @@
 <!-- GitHub Profile Stats -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGupta4&theme=radical&hide_border=true&border_radius=20&cache_seconds=60" width="47%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AkarshGupta4&theme=radical&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" width="47%" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGupta4&layout=compact&theme=radical&hide_border=true&border_radius=20&cache_seconds=60" width="47%" alt="Top Languages" />
 </div>
 
@@ -114,4 +114,3 @@
 
 ---
 
-<!-- Made with 💖 by Akarsh Gupta -->
