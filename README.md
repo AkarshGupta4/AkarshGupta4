@@ -10,14 +10,14 @@
 - 💻 Always dreaming in code!
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/AkarshGupta4" width="200px" style="border-radius:50%;" alt="Akarsh's GitHub Profile Picture" />
+  <img src="https://github.com/AkarshGupta4.png" width="200px" style="border-radius:50%;" alt="Akarsh's GitHub Profile Picture" />
 </p>
 
 ---
 
 <!-- GitHub Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkarshGupta4&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20&cache_seconds=1800" width="60%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkarshGupta4&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20&cache_seconds=60" width="60%" alt="GitHub Stats" />
 </p>
 
 ---
@@ -42,8 +42,8 @@
 <!-- GitHub Profile Stats -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGupta4&theme=radical&hide_border=true&border_radius=20&cache_seconds=1800" width="47%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGupta4&layout=compact&theme=radical&hide_border=true&border_radius=20&cache_seconds=1800" width="47%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGupta4&theme=radical&hide_border=true&border_radius=20&cache_seconds=60" width="47%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGupta4&layout=compact&theme=radical&hide_border=true&border_radius=20&cache_seconds=60" width="47%" alt="Top Languages" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 <!-- GitHub Activity Graph -->
 ## 🚀 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshGupta4&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" width="95%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshGupta4&theme=react-dark&hide_border=true&area=true&cache_seconds=60" width="95%" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -107,4 +107,4 @@
 
 ---
 
-<!-- Made with 💖 by Akarsh Gupta -->
+
