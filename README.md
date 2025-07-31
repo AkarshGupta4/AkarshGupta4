@@ -71,10 +71,10 @@
 
 ---
 
-## 📅 Daily Contribution Calendar
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff79c6/AkarshGupta4" alt="Akarsh's GitHub Contribution Chart" />
+  <img src="https://github-contributions.vercel.app/api/v1/AkarshGupta4?format=svg&color=green&theme=github-dark" alt="GitHub Contribution Calendar" />
 </p>
 
 ---
