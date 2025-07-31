@@ -123,6 +123,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Quote of the Day" />
 </p>
 
+<!-- GitHub Activity Graph -->
+## 🚀 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshGupta4&theme=react-dark&hide_border=true&area=true&cache_seconds=60" width="95%" alt="GitHub Activity Graph" />
+</p>
 ---
 
 ## 👁️ Visitors Count
