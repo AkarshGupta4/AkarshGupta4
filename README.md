@@ -106,6 +106,22 @@
 </p>
 
 ---
+---
+
+## 🚀 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshGupta4&theme=github-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 📅 Commit Calendar (GitHub Dark Theme)
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/AkarshGupta4?format=svg&color=green&theme=github-dark" alt="GitHub Contribution Calendar" />
+</p>
+
 
 <!-- Visitors Count -->
 <p align="center">
